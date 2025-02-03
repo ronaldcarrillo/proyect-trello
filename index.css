@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+}
+header {
+  width: 100%;
+  background-color: rgb(70, 70, 242);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content-img {
+  width: 60px;
+}
+.content-img img {
+  width: 100%;
+}
